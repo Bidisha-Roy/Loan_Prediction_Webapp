@@ -184,3 +184,4 @@ wincertstore==0.2
 wrapt==1.12.1
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
 zipp==3.8.0
+streamlit
