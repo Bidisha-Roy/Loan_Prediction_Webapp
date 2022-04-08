@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  8 15:30:45 2022
-
-@author: user
-"""
-
 mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
